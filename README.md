@@ -1,4 +1,4 @@
-# pyzule-rw / cyan
+# pyzule-rw / cyan (with a GUi)
 
 a rewrite of [pyzule](https://github.com/asdfzxcvbn/pyzule) that doesn't (completely) suck !!
 
@@ -60,6 +60,9 @@ the `zip` and `unzip` commands are *optional* dependencies, they may [fix issues
 </ol>
 </details>
 
+## The GUi
+###### simple to master
+<img src="https://github.com/user-attachments/assets/7d35d201-e1b5-44df-b2a8-97c09ab63881" width="auto" height="50%" />
 
 ## making cyan files
 
