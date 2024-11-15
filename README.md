@@ -48,6 +48,19 @@ the `zip` and `unzip` commands are *optional* dependencies, they may [fix issues
 </ol>
 </details>
 
+<details>
+<summary><b>Quick script to install Cyan & Cyan-GUi-GTK</b></summary>
+<br/>
+<ol>
+  <li> This will install and will help you find the missing dependencies, yet; make sure you have: <code>curl gcc pipx pkg-config gtk+-3.0</code></li>
+  <li> Then at last run this script (you can review it if you wish) and sit back 
+    
+    curl -sL https://raw.githubusercontent.com/TamirRothschild/pyzule-rw-GTK/refs/heads/main/cyan/GTK/install-cyan-full-on-gui.sh | bash
+  <a>Remmber!! DONT RUN A SCRIPT BEFORE YOU HAVE READ IT AND YOU TRUST IT TO DO NO HARM</a>
+</ol>
+</details>
+
+
 ## making cyan files
 
 cyan comes bundled with the `cgen` command, which lets you generate `.cyan` files to pass to `-z`/`--cyan` !
